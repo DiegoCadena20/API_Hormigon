@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YV2r3ojpjly5cJUZyzbHtMjBS2BO46Wa0symOLOQE93WPZ53uQG5kgVVLqckGsXbgUZyjjRya8k2PN48z0Do+g==",
+  "success": true,
+  "projectFilePath": "D:\\Ingenieria En Sistemas\\Octavo\\Inteligencia Artificial\\Unidad II\\API_PrediccionHormigon\\API_PrediccionHormigon\\API_PrediccionHormigon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
